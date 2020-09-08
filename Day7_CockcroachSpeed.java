@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class CockcroachSpeed_day7
+public class Day7_CockcroachSpeed
 {
 	public static void main(String[] args) {
 	    Scanner s= new Scanner(System.in);
