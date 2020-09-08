@@ -1,6 +1,6 @@
 
 import java.util.*;
- class MaxminArray_day2
+ class Day2_MaxminArray
 {
 	public static void main(String[] args) {
 	    ArrayList<Integer> b=new ArrayList<>();
