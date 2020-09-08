@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
- class Primenumber_day6
+ class Day6_Primenumber
 {
 	public static void main(String[] args) {
 		
