@@ -1,6 +1,6 @@
 
 import java.util.*;
- class ReplaceString_day5
+ class Day5_ReplaceString
 {
 	public static void main(String[] args) {
 		Scanner s= new Scanner(System.in);
