@@ -1,6 +1,6 @@
 
 import java.util.*;
- class LongestCommonSubsequence_day3
+ class Day3_LongestCommonSubsequence
 {
   public static void main (String[]args)
   {
