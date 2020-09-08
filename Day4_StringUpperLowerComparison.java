@@ -2,7 +2,7 @@
 
 
 import java.util.Scanner;
-public class StringUpperLowerComparison_day4
+public class Day4_StringUpperLowerComparison
 {
 	public static void main(String[] args) {
 		Scanner s= new Scanner(System.in);
