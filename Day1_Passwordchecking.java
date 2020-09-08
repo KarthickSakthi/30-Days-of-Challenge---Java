@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Passwordchecking_day1
+public class Day1_Passwordchecking
 {
 	public static void main(String[] args) {
 	    Scanner s = new Scanner(System.in);
